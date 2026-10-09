@@ -14,6 +14,7 @@ I then continued to the PCB and the layout part so I know where I want things (r
 
   ![GitHub Repo stars](https://img.shields.io/github/stars/bobert3d/speed-dev?style=flat&logo=github&logoColor=white)  [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/019866aa-94f8-4ef8-be5c-21f2c10331d5" /> BOM!
 
 ## FAQ
 
