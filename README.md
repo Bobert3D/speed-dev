@@ -12,7 +12,7 @@ I started with the not so hard schematic! <img width="1920" height="1200" alt="i
 
 I then continued to the PCB and the layout part so I know where I want things (roughly lol) once I finished that I started to route from the RP2040 outward and then realized that if I wanted this to be ultra compact and cute I needed 4 layers soooo. I did that lol and I continued to do it and then I'm here writing this readme and about to do BOM! Thanks! <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1b2d55e2-b3e1-48da-a0c4-f42f58affb2d" /> PCB Photo!!! 
 <img width="1723" height="992" alt="image" src="https://github.com/user-attachments/assets/1d38d977-149d-4537-bec6-211e511089ab" /> 3D Render!
-
+If you want to see the CAD/3D design take a peek here!! https://cad.onshape.com/documents/b9c1c579f6d2acbbd7cd123c/w/911443ecb6c1df3a912c9fca/e/5be0e992ba93a5b27c93457b?renderMode=0&uiState=6ac969cc2a2592bfad12f0f4
 
   ![GitHub Repo stars](https://img.shields.io/github/stars/bobert3d/speed-dev?style=flat&logo=github&logoColor=white)  [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
