@@ -3,7 +3,7 @@ title: "Speed Dev!"
 github: "https://github.com/Bobert3D/speed-dev"
 description: "A ultra fast made Speedrun dev board as per Rudy's run! Also with cool looking ENIG plating!"
 created_at: "2026-10-09"
-total_time: "5h 6m"
+total_time: "5h 48m"
 ---
 
 # October 9, 2026: SPEEDRUN ASAP!!
@@ -26,3 +26,13 @@ I continued to work and speed run lol so I did the BOM and cried a little bc it 
 ![](https://fabricate.hackclub-assets.com/652e3be5f67a04280a7a14ad8ab790620650d595bf9ecc009c650507f3aeb407/image-png/Screenshot%202026-10-09%201.39.53%20PM.png)
 
 **Total time spent: 2h 24m**
+
+# October 13, 2026: BOM
+<!-- fabricate:entry 383 -->
+
+I did more work on the BOM bc it got returned and I wanted to do better so I did the breakdown of the BOM inside the BOM.md file and cried a lil...lol sadly. And I think that it is good and ready for my (hopefully) final ship!
+
+![](https://fabricate.hackclub-assets.com/c883d23eec85b9954b3a1eb5b4c3e6f3c3ffe5ebb6b83d5aa5b289bc60d38fec/image-png/Screenshot%202026-10-13%2010.07.05%20AM.png)
+![](https://fabricate.hackclub-assets.com/640faca71113bba06b03fcf2a26c135a303948d36750d38191610565a58f5c60/image-png/Screenshot%202026-10-13%2010.05.27%20AM.png)
+
+**Total time spent: 42m**
